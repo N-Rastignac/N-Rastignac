@@ -24,6 +24,7 @@ I'm a student with a strong interest in
 | **monyds** | Network packet sniffer written in C |
 | **lexer** | Lexer / AST interpreter |
 | **ptrace-poc** | POC Syscall tracer in Rust using `PTRACE_SYSCALL` |
+| **argOS** | A learning project in operating system development |
 
 ---
 
